@@ -78,11 +78,11 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Hacking
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" src="https://app.hackthebox.com/profile/overview" /></a>	
+    <a href="#"><img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" src="https://app.hackthebox.com/profile/overview" /></a>	
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
