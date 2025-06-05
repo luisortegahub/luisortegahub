@@ -27,13 +27,12 @@
 <br><br>
 
 - :school: I am a `Student` at [Faculty of Computer Systems Engineering](https://fisc.utp.ac.pa/) at [Universidad Tecnológica de Panamá](https://utp.ac.pa/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :technologist: Deeply interested in everything related to digital security and ethical hacking
+- :computer: Constantly learning about networks, systems, and how to protect them.
+- :student: I’m a Cybersecurity student pursuing a Bachelor's Degree in Cybersecurity.
+- :nerd_face: Passionate about solving technical challenges and understanding how things work under the hood.
+- :thinking: Open to opportunities to learn, grow, and contribute in the cybersecurity field.
+- :boom: Currently focused on growing my skills in cybersecurity fundamentals and real-world defense tactics.
 <br>
 
 
