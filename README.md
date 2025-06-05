@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Luis Ortega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/user-attachments/assets/5b87f428-b9f5-4446-b08f-3b0b4aa4986c"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://assets.zyrosite.com/dOq8OQz3LDSlR6ab/home-animation-Y4LxMnLeZjioywje.gif"></a>
 </p>
 
 
